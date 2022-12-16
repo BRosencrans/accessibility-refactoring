@@ -90,13 +90,10 @@ p {
     color: #ffffff;
 }
 
-
 .benefit-lead h3, .benefit-brand h3, .benefit-cost h3 {
     margin-bottom: 10px;
     text-align: center;
 }
-
-
 
 .benefit-lead img, .benefit-brand img, .benefit-cost img {
     display: block;
@@ -122,13 +119,11 @@ p {
     font-size: 36px;
 }
 
-
-.footer {
+footer {
     padding: 30px;
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
-   
 }
 
 .footer h2 {
